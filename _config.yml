@@ -7,7 +7,9 @@
 
 # Site Settings
 title                    : "Lancan Yibo Yuan (袁一博)"
-description              : "无人扶我凌云志，<br>我自踏雪至山巅。"
+description              : "Diving into STAT and ML.
+                          <br>无人扶我凌云志，
+                          <br>我自踏雪至山巅。"
 repository               : "CanLoop16/canloop16.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,7 +27,7 @@ author:
   # name_en: "Lancan Yibo Yuan"
   # name_zh: "袁一博"
   avatar           : "images/profile.png"
-  bio              : "Xiamen University"
+  bio              : "Master student at XMU"
   location         : "Xiamen, China"
   employer         : 
   pubmed           : 
