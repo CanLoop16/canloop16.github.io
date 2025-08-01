@@ -1,33 +1,19 @@
 GEM
   remote: https://rubygems.org/
   specs:
-<<<<<<< HEAD
     activesupport (7.1.5.1)
       base64
       benchmark (>= 0.3)
       bigdecimal
       concurrent-ruby (~> 1.0, >= 1.0.2)
-=======
-    activesupport (8.0.2)
-      base64
-      benchmark (>= 0.3)
-      bigdecimal
-      concurrent-ruby (~> 1.0, >= 1.3.1)
->>>>>>> 2ff35fcb2a6d0ceb8e673f3a4067ea15ff5feb66
       connection_pool (>= 2.2.5)
       drb
       i18n (>= 1.6, < 2)
       logger (>= 1.4.2)
       minitest (>= 5.1)
-<<<<<<< HEAD
       mutex_m
       securerandom (>= 0.3)
       tzinfo (~> 2.0)
-=======
-      securerandom (>= 0.3)
-      tzinfo (~> 2.0, >= 2.0.5)
-      uri (>= 0.13.1)
->>>>>>> 2ff35fcb2a6d0ceb8e673f3a4067ea15ff5feb66
     addressable (2.8.7)
       public_suffix (>= 2.0.2, < 7.0)
     base64 (0.2.0)
@@ -41,10 +27,6 @@ GEM
     commonmarker (0.23.11)
     concurrent-ruby (1.3.5)
     connection_pool (2.5.3)
-<<<<<<< HEAD
-=======
-    csv (3.3.5)
->>>>>>> 2ff35fcb2a6d0ceb8e673f3a4067ea15ff5feb66
     dnsruby (1.72.4)
       base64 (~> 0.2.0)
       logger (~> 1.6.5)
@@ -55,15 +37,13 @@ GEM
       http_parser.rb (~> 0)
     ethon (0.16.0)
       ffi (>= 1.15.0)
-    eventmachine (1.2.7)
+    eventmachine (1.2.7-x64-mingw32)
     execjs (2.10.0)
-<<<<<<< HEAD
     faraday (2.8.1)
       base64
       faraday-net_http (>= 2.0, < 3.1)
       ruby2_keywords (>= 0.0.4)
     faraday-net_http (3.0.2)
-    ffi (1.17.2)
     ffi (1.17.2-x64-mingw32)
     forwardable-extended (2.6.0)
     gemoji (4.1.0)
@@ -73,23 +53,6 @@ GEM
       jekyll-avatar (= 0.8.0)
       jekyll-coffeescript (= 1.2.2)
       jekyll-commonmark-ghpages (= 0.4.0)
-=======
-    faraday (2.13.4)
-      faraday-net_http (>= 2.0, < 3.5)
-      json
-      logger
-    faraday-net_http (3.4.1)
-      net-http (>= 0.5.0)
-    ffi (1.17.2-x64-mingw-ucrt)
-    forwardable-extended (2.6.0)
-    gemoji (4.1.0)
-    github-pages (232)
-      github-pages-health-check (= 1.18.2)
-      jekyll (= 3.10.0)
-      jekyll-avatar (= 0.8.0)
-      jekyll-coffeescript (= 1.2.2)
-      jekyll-commonmark-ghpages (= 0.5.1)
->>>>>>> 2ff35fcb2a6d0ceb8e673f3a4067ea15ff5feb66
       jekyll-default-layout (= 0.1.5)
       jekyll-feed (= 0.17.0)
       jekyll-gist (= 1.5.0)
@@ -126,42 +89,24 @@ GEM
       liquid (= 4.0.4)
       mercenary (~> 0.3)
       minima (= 2.5.1)
-<<<<<<< HEAD
       nokogiri (>= 1.13.6, < 2.0)
       rouge (= 3.30.0)
       terminal-table (~> 1.4)
-=======
-      nokogiri (>= 1.16.2, < 2.0)
-      rouge (= 3.30.0)
-      terminal-table (~> 1.4)
-      webrick (~> 1.8)
->>>>>>> 2ff35fcb2a6d0ceb8e673f3a4067ea15ff5feb66
     github-pages-health-check (1.18.2)
       addressable (~> 2.3)
       dnsruby (~> 1.60)
       octokit (>= 4, < 8)
       public_suffix (>= 3.0, < 6.0)
       typhoeus (~> 1.3)
-<<<<<<< HEAD
-=======
-    hawkins (2.0.5)
-      em-websocket (~> 0.5)
-      jekyll (~> 3.1)
->>>>>>> 2ff35fcb2a6d0ceb8e673f3a4067ea15ff5feb66
     html-pipeline (2.14.3)
       activesupport (>= 2)
       nokogiri (>= 1.4)
     http_parser.rb (0.8.0)
     i18n (1.14.7)
       concurrent-ruby (~> 1.0)
-<<<<<<< HEAD
     jekyll (3.9.5)
-=======
-    jekyll (3.10.0)
->>>>>>> 2ff35fcb2a6d0ceb8e673f3a4067ea15ff5feb66
       addressable (~> 2.4)
       colorator (~> 1.0)
-      csv (~> 3.0)
       em-websocket (~> 0.5)
       i18n (>= 0.7, < 2)
       jekyll-sass-converter (~> 1.0)
@@ -172,10 +117,6 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 1.7, < 4)
       safe_yaml (~> 1.0)
-<<<<<<< HEAD
-=======
-      webrick (>= 1.0)
->>>>>>> 2ff35fcb2a6d0ceb8e673f3a4067ea15ff5feb66
     jekyll-avatar (0.8.0)
       jekyll (>= 3.0, < 5.0)
     jekyll-coffeescript (1.2.2)
@@ -183,15 +124,9 @@ GEM
       coffee-script-source (~> 1.12)
     jekyll-commonmark (1.4.0)
       commonmarker (~> 0.22)
-<<<<<<< HEAD
     jekyll-commonmark-ghpages (0.4.0)
       commonmarker (~> 0.23.7)
       jekyll (~> 3.9.0)
-=======
-    jekyll-commonmark-ghpages (0.5.1)
-      commonmarker (>= 0.23.7, < 1.1.0)
-      jekyll (>= 3.9, < 4.0)
->>>>>>> 2ff35fcb2a6d0ceb8e673f3a4067ea15ff5feb66
       jekyll-commonmark (~> 1.4.0)
       rouge (>= 2.0, < 5.0)
     jekyll-default-layout (0.1.5)
@@ -277,10 +212,6 @@ GEM
       gemoji (>= 3, < 5)
       html-pipeline (~> 2.2)
       jekyll (>= 3.0, < 5.0)
-<<<<<<< HEAD
-=======
-    json (2.13.2)
->>>>>>> 2ff35fcb2a6d0ceb8e673f3a4067ea15ff5feb66
     kramdown (2.4.0)
       rexml
     kramdown-parser-gfm (1.1.0)
@@ -291,25 +222,14 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.10)
     logger (1.6.6)
     mercenary (0.3.6)
-    mini_portile2 (2.8.9)
     minima (2.5.1)
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
     minitest (5.25.5)
-<<<<<<< HEAD
     mutex_m (0.3.0)
-    nokogiri (1.15.7)
-      mini_portile2 (~> 2.8.2)
-      racc (~> 1.4)
     nokogiri (1.15.7-x64-mingw32)
       racc (~> 1.4)
-=======
-    net-http (0.6.0)
-      uri
-    nokogiri (1.18.9-x64-mingw-ucrt)
-      racc (~> 1.4)
->>>>>>> 2ff35fcb2a6d0ceb8e673f3a4067ea15ff5feb66
     octokit (4.25.1)
       faraday (>= 1, < 3)
       sawyer (~> 0.9)
@@ -322,10 +242,7 @@ GEM
       ffi (~> 1.0)
     rexml (3.4.1)
     rouge (3.30.0)
-<<<<<<< HEAD
     ruby2_keywords (0.0.5)
-=======
->>>>>>> 2ff35fcb2a6d0ceb8e673f3a4067ea15ff5feb66
     rubyzip (2.4.1)
     safe_yaml (1.0.5)
     sass (3.7.4)
@@ -336,11 +253,7 @@ GEM
     sawyer (0.9.2)
       addressable (>= 2.3.5)
       faraday (>= 0.17.3, < 3)
-<<<<<<< HEAD
     securerandom (0.3.2)
-=======
-    securerandom (0.4.1)
->>>>>>> 2ff35fcb2a6d0ceb8e673f3a4067ea15ff5feb66
     simpleidn (0.2.3)
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
@@ -351,11 +264,9 @@ GEM
     tzinfo-data (1.2025.2)
       tzinfo (>= 1.0.0)
     unicode-display_width (1.8.0)
-<<<<<<< HEAD
     wdm (0.1.1)
 
 PLATFORMS
-  ruby
   x64-mingw32
 
 DEPENDENCIES
@@ -369,21 +280,3 @@ DEPENDENCIES
 
 BUNDLED WITH
    2.4.22
-=======
-    uri (1.0.3)
-    webrick (1.9.1)
-
-PLATFORMS
-  x64-mingw-ucrt
-
-DEPENDENCIES
-  github-pages (>= 228)
-  hawkins
-  jekyll-feed
-  jekyll-sitemap
-  nokogiri (>= 1.15.0)
-  tzinfo-data
-
-BUNDLED WITH
-   2.7.1
->>>>>>> 2ff35fcb2a6d0ceb8e673f3a4067ea15ff5feb66
