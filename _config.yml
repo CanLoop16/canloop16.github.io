@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yibo Yuan (袁一博)"
-description              : "Make China Great Again."
+description              : "无人扶我凌云志，<br>我自踏雪至山巅。"
 repository               : "CanLoop16/canloop16.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,14 +21,16 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : " Lancan Yibo Yuan (袁一博)"
-  avatar           : "images/android-chrome-512x512.png"
+  name             : "Yibo Yuan (袁一博)"
+  # name_en: "Lancan Yibo Yuan"
+  # name_zh: "袁一博"
+  avatar           : "images/profile.png"
   bio              : "Xiamen University"
   location         : "Xiamen, China"
-  employer         :
+  employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "lancanyuan@outlook.com"
+  googlescholar    :  # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  email            : "lancanyuan16@outlook.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +39,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/CanLoop16"
   google_plus      :
   keybase          :
   instagram        :
