@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lancan Yibo Yuan<br>袁一博"
+title                    : "Lancan Yibo Yuan (袁一博)"
 description              : "无人扶我凌云志，<br>我自踏雪至山巅。"
 repository               : "CanLoop16/canloop16.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yibo Yuan (袁一博)"
+  name             : "Lancan Yibo Yuan<br>袁一博"
   # name_en: "Lancan Yibo Yuan"
   # name_zh: "袁一博"
   avatar           : "images/profile.png"
