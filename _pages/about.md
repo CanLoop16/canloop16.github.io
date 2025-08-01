@@ -75,6 +75,7 @@ My research interests includes causal inference, nonparametric statistical learn
 |-------------------------------------------------|------------------------------------------|
 | Advanced Algebra, 2023 Spring                   | Shandong University, China               |
 | Probability and Statistics, 2025 Spring         | Xiamen University, China                 |
+| Calculus, 2025 Fall                             | Xiamen University, China                 |
 
 **Private Tutoring**
 
