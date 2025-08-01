@@ -136,3 +136,29 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.ps-note {
+  font-size: 0.9em;
+  color: #888;
+  display: block;
+  margin-top: 0.2em;
+}
+
+table {
+  // display: block;
+  max-height: 300px;    // 你可以根据需要调整高度
+  overflow-y: auto;
+  // overflow-x: auto;     // 如果内容很宽，也可以保留横向滚动
+  white-space: normal;  // 允许内容换行
+  width: 100%;
+  table-layout: fixed;  // 确保表格宽度固定
+}
+
+table th, table td {
+  word-break: break-word;
+}
+
+// .scroll-table {
+//   max-height: 300px;
+//   overflow-y: auto;
+// }
