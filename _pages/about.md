@@ -19,7 +19,7 @@ redirect_from:
 
 Hi there! Welcome to my little corner of the web! Here I would present some of my works and notes.
 
-My research interests includes causal inference, nonparametric statistical learning, diffusion models and their applications.
+My research interests include causal inference, nonparametric statistical learning, diffusion models and their applications.
 
 🌟 I am actively preparing to apply for PhD programs in 2026 Fall. I would like to share some of my study notes and reflections on this website.
 
